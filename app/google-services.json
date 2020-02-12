@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403977682082",
+    "firebase_url": "https://crackle-chat.firebaseio.com",
+    "project_id": "crackle-chat",
+    "storage_bucket": "crackle-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403977682082:android:cc372121412ed6b4756bfb",
+        "android_client_info": {
+          "package_name": "com.android.pehom.cracklechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403977682082-2r3cvp29gs08ll7oonu4m0pc753ha193.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.pehom.cracklechat",
+            "certificate_hash": "29801d60fd853b5c51a39616f2ad37496741ddcc"
+          }
+        },
+        {
+          "client_id": "403977682082-de3h83e2prd8f1h1rvne6plt549ra9hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzDAx4_x2YRWVzGTT6AUczt3tBNGwCZXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403977682082-de3h83e2prd8f1h1rvne6plt549ra9hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
